@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='17'>
+    <iu id='CheckinPolicyPack.feature.group' name='Checkin Policy Pack' version='2.1.7.0'>
+      <repositories size='1'>
+        <repository location='http://srvmsktfsapp01:8085/site.xml'/>
+      </repositories>
+    </iu>
+    <iu id='com.cthing.cmakeed.feature.feature.group' name='CMake Editor' version='1.1.6'>
+      <repositories size='1'>
+        <repository location='http://cmakeed.sourceforge.net/eclipse/'/>
+      </repositories>
+    </iu>
+    <iu id='com.github.eclipsecolortheme.feature.feature.group' name='Eclipse Color Theme' version='0.13.0.201311210852'>
+      <repositories size='1'>
+        <repository location='http://eclipse-color-theme.github.com/update'/>
+      </repositories>
+    </iu>
+    <iu id='epp.package.cpp' name='Eclipse IDE for C/C++ Developers' version='2.0.1.20130919-0803'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.vjet.js.ide.feature.group' name='Eclipse VJET JavaScript IDE (Incubation)' version='0.10.0.201303191704'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/vjet/updates-0.10/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.vjet.codegen.feature.group' name='Eclipse VJET: Java to Js Code Generation (Incubation)' version='0.10.0.201303191704'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/vjet/updates-0.10/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.wst.xml_ui.feature.feature.group' name='Eclipse XML Editors and Tools' version='3.5.2.v201401062113-7H7IFizDxumVu0K6bjdPjXRkoz0FiUYMnSyT9PL'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+      </repositories>
+    </iu>
+    <iu id='javax.mail.feature.group' name='Java Mail' version='2.2.0.0'>
+      <repositories size='1'>
+        <repository location='http://srvmsktfsapp01:8085/site.xml'/>
+      </repositories>
+    </iu>
+    <iu id='jsonedit-feature.feature.group' name='JSON Editor Plugin' version='0.9.7'>
+      <repositories size='1'>
+        <repository location='https://sourceforge.net/projects/eclipsejsonedit/files/update'/>
+      </repositories>
+    </iu>
+    <iu id='com.google.eclipse.protobuf.feature.group' name='Protocol Buffer Editor' version='1.4.3.201307151341'>
+      <repositories size='1'>
+        <repository location='http://protobuf-dt.googlecode.com/git/update-site'/>
+      </repositories>
+    </iu>
+    <iu id='org.python.pydev.feature.feature.group' name='PyDev for Eclipse' version='3.6.0.201406232321'>
+      <repositories size='1'>
+        <repository location='http://pydev.sf.net/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.python.pydev.mylyn.feature.feature.group' name='Pydev Mylyn Integration' version='0.4.0'>
+      <repositories size='1'>
+        <repository location='http://pydev.sf.net/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.regexp.feature.feature.group' name='Regexp Feature' version='0.3.0'>
+      <repositories size='1'>
+        <repository location='http://zapletnev.github.io/eclipse-regexp/repository/'/>
+      </repositories>
+    </iu>
+    <iu id='net.sourceforge.shelled.feature.group' name='ShellEd' version='2.0.3'>
+      <repositories size='1'>
+        <repository location='http://sourceforge.net/projects/shelled/files/shelled/update/'/>
+      </repositories>
+    </iu>
+    <iu id='com.microsoft.tfs.client.eclipse.feature.feature.group' name='TFS plug-in for Eclipse' version='12.0.0.201310110941'>
+      <repositories size='1'>
+        <repository location='http://dl.microsoft.com/eclipse/tfs'/>
+      </repositories>
+    </iu>
+    <iu id='com.microsoft.tfs.client.eclipse.nl1.feature.feature.group' name='TFS plug-in for Eclipse Language Pack' version='12.0.0.201310110942'>
+      <repositories size='1'>
+        <repository location='http://dl.microsoft.com/eclipse/tfs'/>
+      </repositories>
+    </iu>
+    <iu id='TFSNotesSender.feature.group' name='TFSNotesSender' version='3.2.0.0'>
+      <repositories size='1'>
+        <repository location='http://srvmsktfsapp01:8085/site.xml'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
