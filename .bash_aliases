@@ -1,3 +1,4 @@
-# openssl
-alias oad='openssl asn1parse -inform der -in'
-alias oap='openssl asn1parse -inform pem -in'
+alias grep='grep --color=auto'
+alias ls='ls --color=auto'
+
+
