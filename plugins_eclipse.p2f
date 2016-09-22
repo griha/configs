@@ -69,11 +69,6 @@
         <repository location='http://zapletnev.github.io/eclipse-regexp/repository/'/>
       </repositories>
     </iu>
-    <iu id='net.sourceforge.shelled.feature.group' name='ShellEd' version='2.0.3'>
-      <repositories size='1'>
-        <repository location='http://sourceforge.net/projects/shelled/files/shelled/update/'/>
-      </repositories>
-    </iu>
     <iu id='com.microsoft.tfs.client.eclipse.feature.feature.group' name='TFS plug-in for Eclipse' version='12.0.2.201409181809'>
       <repositories size='1'>
         <repository location='http://dl.microsoft.com/eclipse/tfs'/>
