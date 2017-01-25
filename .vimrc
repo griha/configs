@@ -1,6 +1,6 @@
 set bg=dark
-" colorscheme manxome
-colorscheme wombat256
+colorscheme manxome
+" colorscheme wombat256
 let leave_my_textwidth_alone='yes'      " убираем автоматический перенос строк в текстовых файлах (Gentoo-specific)
 syntax on                               " включаем подсветку синтаксиса
 set softtabstop=4 shiftwidth=4 expandtab
@@ -18,6 +18,7 @@ set mouse=a                             " включить мышь везде, 
 set list                                " включить отображение непечатных символов на экране
 set listchars=tab:>.,trail:.            " отображать табы и пробелы в конце строки
 set complete=.,w,b,u,t                  " автодополнять без поиска по включенным файлам
+set diffopt+=iwhite			" игонорировать перевод строки
 " пути для удобного открытия инклюдов по gf
 " set path=.,,**/include/**;/home/vozbu/programming
 set path=.,include/**;/home/vozbu/programming
