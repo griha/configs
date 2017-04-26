@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
-  <ius size='39'>
+  <ius size='38'>
     <iu id='org.eclipse.cdt.autotools.feature.group' name='C/C++ Autotools support' version='9.2.0.201612061315'>
       <repositories size='2'>
         <repository location='http://download.eclipse.org/releases/neon'/>
@@ -53,6 +53,12 @@
         <repository location='http://cmakeed.sourceforge.net/eclipse/'/>
       </repositories>
     </iu>
+    <iu id='org.eclipse.dltk.sh.feature.group' name='Dynamic Languages Toolkit - ShellEd IDE' version='5.7.1.201703020501'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/neon'/>
+        <repository location='http://download.eclipse.org/technology/dltk/updates-dev/latest/'/>
+      </repositories>
+    </iu>
     <iu id='com.github.eclipsecolortheme.feature.feature.group' name='Eclipse Color Theme' version='1.0.0.201410260308'>
       <repositories size='1'>
         <repository location='http://eclipse-color-theme.github.com/update'/>
@@ -66,16 +72,6 @@
     <iu id='epp.package.cpp' name='Eclipse IDE for C/C++ Developers' version='4.6.2.20161208-0625'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
-      </repositories>
-    </iu>
-    <iu id='org.eclipse.vjet.js.ide.feature.group' name='Eclipse VJET JavaScript IDE (Incubation)' version='0.10.0.201303191704'>
-      <repositories size='1'>
-        <repository location='http://download.eclipse.org/vjet/updates-0.10/'/>
-      </repositories>
-    </iu>
-    <iu id='org.eclipse.vjet.codegen.feature.group' name='Eclipse VJET: Java to Js Code Generation (Incubation)' version='0.10.0.201303191704'>
-      <repositories size='1'>
-        <repository location='http://download.eclipse.org/vjet/updates-0.10/'/>
       </repositories>
     </iu>
     <iu id='org.eclipse.wst.xml_ui.feature.feature.group' name='Eclipse XML Editors and Tools' version='3.8.0.v201608061842'>
@@ -169,7 +165,7 @@
         <repository location='http://google.github.io/protobuf-dt/updates/latest/'/>
       </repositories>
     </iu>
-    <iu id='org.python.pydev.feature.feature.group' name='PyDev for Eclipse' version='5.4.0.201611281236'>
+    <iu id='org.python.pydev.feature.feature.group' name='PyDev for Eclipse' version='5.5.0.201701191708'>
       <repositories size='2'>
         <repository location='http://www.pydev.org/updates/'/>
         <repository location='http://pydev.sf.net/updates/'/>
