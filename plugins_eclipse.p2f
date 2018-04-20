@@ -1,49 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
-  <ius size='38'>
-    <iu id='org.eclipse.cdt.autotools.feature.group' name='C/C++ Autotools support' version='9.2.0.201612061315'>
-      <repositories size='2'>
-        <repository location='http://download.eclipse.org/releases/neon'/>
-        <repository location='http://download.eclipse.org/tools/cdt/releases/9.2'/>
+  <ius size='35'>
+    <iu id='de.jcup.basheditor.feature.group' name='Bash Editor' version='1.1.0'>
+      <repositories size='1'>
+        <repository location='https://dl.bintray.com/de-jcup/basheditor'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.cdt.feature.group' name='C/C++ Development Tools' version='9.2.0.201612061315'>
-      <repositories size='2'>
-        <repository location='http://download.eclipse.org/releases/neon'/>
-        <repository location='http://download.eclipse.org/tools/cdt/releases/9.2'/>
-      </repositories>
-    </iu>
-    <iu id='org.eclipse.cdt.build.crossgcc.feature.group' name='C/C++ GCC Cross Compiler Support' version='9.2.0.201612061315'>
-      <repositories size='2'>
-        <repository location='http://download.eclipse.org/releases/neon'/>
-        <repository location='http://download.eclipse.org/tools/cdt/releases/9.2'/>
-      </repositories>
-    </iu>
-    <iu id='org.eclipse.linuxtools.cdt.libhover.feature.feature.group' name='C/C++ Library API Documentation Hover Help' version='5.2.0.201612072123'>
+    <iu id='org.eclipse.linuxtools.cdt.libhover.feature.feature.group' name='C/C++ Library API Documentation Hover Help' version='5.3.0.201703072040'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.cdt.debug.ui.memory.feature.group' name='C/C++ Memory View Enhancements' version='9.2.0.201612061315'>
-      <repositories size='2'>
-        <repository location='http://download.eclipse.org/releases/neon'/>
-        <repository location='http://download.eclipse.org/tools/cdt/releases/9.2'/>
-      </repositories>
-    </iu>
-    <iu id='org.eclipse.cdt.launch.remote.feature.group' name='C/C++ Remote Launch' version='9.2.0.201612061315'>
-      <repositories size='2'>
-        <repository location='http://download.eclipse.org/releases/neon'/>
-        <repository location='http://download.eclipse.org/tools/cdt/releases/9.2'/>
-      </repositories>
-    </iu>
-    <iu id='org.eclipse.cdt.debug.standalone.feature.group' name='CDT Standalone Debugger Support' version='9.2.0.201612061315'>
-      <repositories size='2'>
-        <repository location='http://download.eclipse.org/releases/neon'/>
-        <repository location='http://download.eclipse.org/tools/cdt/releases/9.2'/>
-      </repositories>
-    </iu>
-    <iu id='org.eclipse.linuxtools.changelog.c.feature.group' name='ChangeLog Management Tools for C/C++' version='5.2.0.201612072123'>
+    <iu id='org.eclipse.linuxtools.changelog.c.feature.group' name='ChangeLog Management Tools for C/C++' version='5.3.0.201703072040'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
@@ -53,9 +22,13 @@
         <repository location='http://cmakeed.sourceforge.net/eclipse/'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.dltk.sh.feature.group' name='Dynamic Languages Toolkit - ShellEd IDE' version='5.7.1.201703020501'>
-      <repositories size='2'>
-        <repository location='http://download.eclipse.org/releases/neon'/>
+    <iu id='org.wangzw.cppstyle.feature.feature.group' name='CppStyle' version='1.5.0.0'>
+      <repositories size='1'>
+        <repository location='http://www.cppstyle.com/update'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.dltk.sh.feature.group' name='Dynamic Languages Toolkit - ShellEd IDE' version='5.8.0.201706030400'>
+      <repositories size='1'>
         <repository location='http://download.eclipse.org/technology/dltk/updates-dev/latest/'/>
       </repositories>
     </iu>
@@ -64,52 +37,52 @@
         <repository location='http://eclipse-color-theme.github.com/update'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.egit.feature.group' name='Eclipse Git Team Provider' version='4.4.1.201607150455-r'>
+    <iu id='epp.package.cpp' name='Eclipse IDE for C/C++ Developers' version='4.6.3.20170314-1500'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
     </iu>
-    <iu id='epp.package.cpp' name='Eclipse IDE for C/C++ Developers' version='4.6.2.20161208-0625'>
+    <iu id='org.eclipse.wst.xml_ui.feature.feature.group' name='Eclipse XML Editors and Tools' version='3.8.2.v201702270442'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.wst.xml_ui.feature.feature.group' name='Eclipse XML Editors and Tools' version='3.8.0.v201608061842'>
+    <iu id='org.eclipse.linuxtools.gcov.feature.group' name='GCov Integration' version='5.3.0.201703072040'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.linuxtools.gcov.feature.group' name='GCov Integration' version='5.2.0.201612072123'>
+    <iu id='org.eclipse.tracecompass.gdbtrace.feature.group' name='GDB Tracepoint Analysis' version='2.3.0.201703072250'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.tracecompass.gdbtrace.feature.group' name='GDB Tracepoint Analysis' version='2.2.0.201612071351'>
+    <iu id='org.eclipse.egit.feature.group' name='Git integration for Eclipse' version='4.6.1.201703071140-r'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.linuxtools.gprof.feature.feature.group' name='GProf Integration' version='5.2.0.201612072123'>
+    <iu id='org.eclipse.linuxtools.gprof.feature.feature.group' name='GProf Integration' version='5.3.0.201703072040'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.linuxtools.cdt.libhover.devhelp.feature.feature.group' name='Library Hover help for devhelp documentation' version='5.2.0.201612072123'>
+    <iu id='org.eclipse.linuxtools.cdt.libhover.devhelp.feature.feature.group' name='Library Hover help for devhelp documentation' version='5.3.0.201703072040'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.tracecompass.lttng2.kernel.feature.group' name='LTTng Kernel Analysis' version='2.2.0.201612071351'>
+    <iu id='org.eclipse.tracecompass.lttng2.kernel.feature.group' name='LTTng Kernel Analysis' version='2.3.0.201703072250'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.tracecompass.lttng2.control.feature.group' name='LTTng Tracer Control' version='2.2.0.201612071351'>
+    <iu id='org.eclipse.tracecompass.lttng2.control.feature.group' name='LTTng Tracer Control' version='2.3.0.201703072250'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.tracecompass.lttng2.ust.feature.group' name='LTTng Userspace Analysis' version='2.2.0.201612071351'>
+    <iu id='org.eclipse.tracecompass.lttng2.ust.feature.group' name='LTTng Userspace Analysis' version='2.3.0.201703072250'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
@@ -154,10 +127,14 @@
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.php.feature.group' name='PHP Development Tools (PDT)' version='4.2.0.201611142355'>
-      <repositories size='2'>
-        <repository location='http://download.eclipse.org/releases/neon'/>
+    <iu id='org.eclipse.php.feature.group' name='PHP Development Tools (PDT)' version='5.0.1.201706221951'>
+      <repositories size='1'>
         <repository location='http://download.eclipse.org/tools/pdt/updates/latest'/>
+      </repositories>
+    </iu>
+    <iu id='net.sourceforge.plantuml.feature.feature.group' name='PlantUML Feature' version='1.1.8.8057'>
+      <repositories size='1'>
+        <repository location='http://plantuml.sourceforge.net/updatesitejuno/'/>
       </repositories>
     </iu>
     <iu id='com.google.eclipse.protobuf.feature.group' name='Protocol Buffer Editor' version='2.3.2.201609161849'>
@@ -165,7 +142,7 @@
         <repository location='http://google.github.io/protobuf-dt/updates/latest/'/>
       </repositories>
     </iu>
-    <iu id='org.python.pydev.feature.feature.group' name='PyDev for Eclipse' version='5.5.0.201701191708'>
+    <iu id='org.python.pydev.feature.feature.group' name='PyDev for Eclipse' version='6.0.0.201709191431'>
       <repositories size='2'>
         <repository location='http://www.pydev.org/updates/'/>
         <repository location='http://pydev.sf.net/updates/'/>
@@ -182,22 +159,22 @@
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.linuxtools.rpm.feature.group' name='RPM Tools' version='5.2.0.201612072123'>
+    <iu id='org.eclipse.linuxtools.rpm.feature.group' name='RPM Tools' version='5.3.0.201703072040'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
     </iu>
-    <iu id='com.microsoft.tfs.client.eclipse.feature.feature.group' name='Team Explorer Everywhere' version='14.111.1.201612142019'>
+    <iu id='com.microsoft.tfs.client.eclipse.feature.feature.group' name='Team Explorer Everywhere' version='14.123.1.201709051450'>
       <repositories size='1'>
         <repository location='http://dl.microsoft.com/eclipse/tfs'/>
       </repositories>
     </iu>
-    <iu id='com.microsoft.tfs.client.eclipse.nl1.feature.feature.group' name='Team Explorer Everywhere Language Pack' version='14.111.1.201612142019'>
+    <iu id='com.microsoft.tfs.client.eclipse.nl1.feature.feature.group' name='Team Explorer Everywhere Language Pack' version='14.123.1.201709051451'>
       <repositories size='1'>
         <repository location='http://dl.microsoft.com/eclipse/tfs'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.linuxtools.valgrind.feature.group' name='Valgrind Tools Integration' version='5.2.0.201612072123'>
+    <iu id='org.eclipse.linuxtools.valgrind.feature.group' name='Valgrind Tools Integration' version='5.3.0.201703072040'>
       <repositories size='1'>
         <repository location='http://download.eclipse.org/releases/neon'/>
       </repositories>
